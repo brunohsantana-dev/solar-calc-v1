@@ -1,5 +1,7 @@
 ☀️ SolarCalc V1
 
+https://brunohsantana-dev.github.io/solar-calc-v1/
+
 A solar energy calculator built as an evolving web development project.
 
 This project was created to practice and apply my web development skills while exploring concepts related to solar energy.
